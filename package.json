@@ -4,6 +4,7 @@
   "workspaces": [
     "packages/*"
   ],
+  "version": "0.0.1",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
